@@ -7,3 +7,7 @@ abc();
 function pqr(){
 
 }
+
+function x(){
+    console.log('====')
+}
