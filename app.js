@@ -11,3 +11,7 @@ function pqr(){
 function x(){
     console.log('====')
 }
+
+function y(){
+    console.log('yy')
+}
