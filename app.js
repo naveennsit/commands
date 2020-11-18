@@ -3,3 +3,9 @@ function abc(){
 }
 
 abc();
+
+function pqr(){
+
+}
+
+pqr();
