@@ -7,5 +7,3 @@ abc();
 function pqr(){
 
 }
-
-pqr();
